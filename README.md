@@ -13,15 +13,6 @@ This research applies Continuous Wavelet Transform (CWT)-based signal preprocess
 
 ---
 
-## 저자 / Authors
-
-| 역할 / Role | 이름 / Name |
-|---|---|
-| 저자 / Author | 변문성 (Byeon Munseong) |
-| 지도교수 / Supervisor | 양진홍 교수 (Prof. Yang Jinhong) |
-
----
-
 ## 실험 설정 / Experimental Setup
 
 | 항목 / Item | 내용 / Details |
